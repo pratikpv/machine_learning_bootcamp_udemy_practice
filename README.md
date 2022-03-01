@@ -14,3 +14,5 @@ Practice for examples and exercise from  https://www.udemy.com/course/python-for
 * [K-means](https://github.com/pratikpv/machine_learning_bootcamp_udemy_practice/tree/master/K-means)
 * [Natural-Language-Processing (NLP)](https://github.com/pratikpv/machine_learning_bootcamp_udemy_practice/tree/master/Natural-Language-Processing)
 * [Recommender-Systems](https://github.com/pratikpv/machine_learning_bootcamp_udemy_practice/tree/master/Recommender-Systems)
+
+Finally, [Machine learning Udemy certificate](https://www.udemy.com/certificate/UC-JJFCQHPJ)
